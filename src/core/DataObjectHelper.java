@@ -8,6 +8,8 @@ public class DataObjectHelper {
 	
 	private String userName="root";
 	private String password="";
+	
+// 	we use local server 
 	private String url="jdbc:mysql://localhost:3306/database";
 	private static String driver="com.mysql.cj.jdbc.Driver";
 	
