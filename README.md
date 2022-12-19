@@ -1,2 +1,2 @@
 # java-db-gui-exercise
-contain my gui with database java project
+contain java project with gui and db
